@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrew Pla (@apla1297) Im a Software Developer, Lighting Designer and Entertainment Systems Architect
 - 👀 I’m interested in ... .Net, React, Flutter, Orleans, Azure, AWS, PWA's and so much more.......
 - 🌱 I’m currently learning ... Flutter, Orleans and PWA Dev
-- 💞️ I’m looking to collaborate on ... Prett much anything, I love a good project
+- 💞️ I’m looking to collaborate on ... Pretty much anything, I love a good project
 - 📫 How to reach me ... apla1297@gmail.com or Andrew.pla@neudesic.com
 
 <!---
